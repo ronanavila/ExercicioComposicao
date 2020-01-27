@@ -1,0 +1,11 @@
+C:\Users\Ronan\Desktop\resolucaoexercicio\ResolucaoExercicio\ResolucaoExercicio\bin\Debug\netcoreapp3.1\ResolucaoExercicio.exe
+C:\Users\Ronan\Desktop\resolucaoexercicio\ResolucaoExercicio\ResolucaoExercicio\bin\Debug\netcoreapp3.1\ResolucaoExercicio.deps.json
+C:\Users\Ronan\Desktop\resolucaoexercicio\ResolucaoExercicio\ResolucaoExercicio\bin\Debug\netcoreapp3.1\ResolucaoExercicio.runtimeconfig.json
+C:\Users\Ronan\Desktop\resolucaoexercicio\ResolucaoExercicio\ResolucaoExercicio\bin\Debug\netcoreapp3.1\ResolucaoExercicio.runtimeconfig.dev.json
+C:\Users\Ronan\Desktop\resolucaoexercicio\ResolucaoExercicio\ResolucaoExercicio\bin\Debug\netcoreapp3.1\ResolucaoExercicio.dll
+C:\Users\Ronan\Desktop\resolucaoexercicio\ResolucaoExercicio\ResolucaoExercicio\bin\Debug\netcoreapp3.1\ResolucaoExercicio.pdb
+C:\Users\Ronan\Desktop\resolucaoexercicio\ResolucaoExercicio\ResolucaoExercicio\obj\Debug\netcoreapp3.1\ResolucaoExercicio.csprojAssemblyReference.cache
+C:\Users\Ronan\Desktop\resolucaoexercicio\ResolucaoExercicio\ResolucaoExercicio\obj\Debug\netcoreapp3.1\ResolucaoExercicio.AssemblyInfoInputs.cache
+C:\Users\Ronan\Desktop\resolucaoexercicio\ResolucaoExercicio\ResolucaoExercicio\obj\Debug\netcoreapp3.1\ResolucaoExercicio.AssemblyInfo.cs
+C:\Users\Ronan\Desktop\resolucaoexercicio\ResolucaoExercicio\ResolucaoExercicio\obj\Debug\netcoreapp3.1\ResolucaoExercicio.dll
+C:\Users\Ronan\Desktop\resolucaoexercicio\ResolucaoExercicio\ResolucaoExercicio\obj\Debug\netcoreapp3.1\ResolucaoExercicio.pdb
